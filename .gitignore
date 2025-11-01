@@ -129,7 +129,7 @@ npm-debug.log
 yarn-error.log
 
 # wwwroot içindeki derlenen dosyalar
-wwwroot/lib/
+# wwwroot/lib/
 wwwroot/css/*.min.css
 wwwroot/js/*.min.js
 
